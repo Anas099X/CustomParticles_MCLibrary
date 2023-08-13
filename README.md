@@ -1,4 +1,4 @@
-## Custom Particles Datapack
+## Custom Particles Datapack Library
 
 - #### The Datapack offers developers the ability to add custom particles, enhancing their gameplay experience with visually stunning effects. With extensive control options, you can tailor these particle effects to your liking and have full control over every aspect.
 
