@@ -31,6 +31,8 @@
 
 
 ---
+## Socials
+ [![](https://dcbadge.vercel.app/api/server/x3bvraa6q2)](https://discord.gg/5d8PTx3kyR)
 
 - **BisectHosting Is Minecraft Server Hosting That Proves Players With an Easy and Affordable Way to Hoster their Minecraft Server!
 Get 25% Off For your First Month By Using My Code!**
