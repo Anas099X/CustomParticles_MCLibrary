@@ -16,7 +16,7 @@
 | falling                 | Dripping or falling particles    
 | floating  | Floating or flying particles    
 
-**Note: The proper of type `spread` is to run it repeatedly. The datapack contains example function that is optimized for spread particle usage. Simply open the example function file, remove # at beginning and modify it to your needs**
+**Note: The proper usage of type `spread` is to run it repeatedly. The datapack contains example function that is optimized for spread particle usage. Simply open the example function file, remove # at beginning and modify it to your needs**
 
 | Arguments          | Description               
 |---------------------|:---------------------:|
